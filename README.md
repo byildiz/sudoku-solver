@@ -12,8 +12,3 @@ Example sudoku is from **"Sudoku Ileri Seviye 9" by Okan Arikan and Sinan Cecen*
 Example usage:
 
     $ python solver.py sudoko.txt
-
-
-----------
-
-Author: *Burak YILDIZ (yildiz1088 [a] gmail [.] com)*
